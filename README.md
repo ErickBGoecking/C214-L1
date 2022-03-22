@@ -20,7 +20,7 @@ Versão 1.0 do projeto. Poderá ter alterações e melhorias e caso isso aconte�
 
 ## ✒️ Autores
 
-* **Desenvolvedor** - *Erick Braun Goecking Martins - Engenhadia da Computação* - [Github](https://github.com/ErickBGoecking)
+Erick Braun Goecking Martins - Engenhadia da Computação - [Github](https://github.com/ErickBGoecking)
 
 
 ## 📄 Licença
